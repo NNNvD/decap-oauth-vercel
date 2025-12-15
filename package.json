@@ -1,0 +1,7 @@
+{
+  "name": "decap-oauth-vercel",
+  "private": true,
+  "dependencies": {
+    "@openlab/vercel-netlify-cms-github": "^1.0.0"
+  }
+}
